@@ -184,6 +184,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [sls-dev-tools](https://github.com/Theodo-UK/sls-dev-tools) Dev Tools for the Serverless World
 - [snips.sh](https://github.com/robherley/snips.sh) ✂️ passwordless, anonymous SSH-powered pastebin with a human-friendly TUI and web UI
 - [stu](https://github.com/lusingander/stu) A TUI for Amazon S3
+- [synaps](https://github.com/HaseebKhalid1507/SynapsCLI) Lightning fast terminal native agent harness with tools, extensions and subagents
 - [termdbms](https://github.com/mathaou/termdbms) A TUI for viewing and editing database files.
 - [terraform-tui](https://github.com/idoavrah/terraform-tui) view and interact with Terraform state
 - [Toad](https://github.com/batrachianai/toad) A unified interface for AI
